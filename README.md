@@ -1,10 +1,10 @@
-# 🏦 Bank Customer Analysis – SQL Script
+# Bank Customer Analysis – SQL Script
 
-## 📝 Project Description  
+## Project Description  
 Banking Intelligence aims to develop a supervised machine learning model to predict future customer behavior.  
 The purpose of this SQL script is to create a **denormalized table** based on existing data, containing **indicators (features)** useful for model training.
 
-## 🎯 Objective  
+## Objective  
 Create a **feature table at the customer level** (`id_cliente`) that combines:
 
 - Customer personal information  
@@ -13,7 +13,7 @@ Create a **feature table at the customer level** (`id_cliente`) that combines:
 
 This table will serve as the foundation for training predictive models.
 
-## 📌 Calculated Indicators  
+## Calculated Indicators  
 
 ### Basic Indicators  
 - Customer age  
