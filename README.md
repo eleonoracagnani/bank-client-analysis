@@ -15,14 +15,14 @@ This table will serve as the foundation for training predictive models.
 
 ## 📌 Calculated Indicators  
 
-### 🔹 Basic Indicators  
+### Basic Indicators  
 - Customer age  
 
-### 🔹 Transactions (overall)  
+### Transactions (overall)  
 - Number and total amount of incoming transactions  
 - Number and total amount of outgoing transactions  
 
-### 🔹 Accounts  
+### Accounts  
 - Total number of accounts  
 - Number of accounts by type:  
   - Base  
@@ -30,7 +30,7 @@ This table will serve as the foundation for training predictive models.
   - Personal  
   - Family  
 
-### 🔹 Transactions by Account Type  
+### Transactions by Account Type  
 For each account type:
 - Number of incoming and outgoing transactions  
 - Total amount of incoming and outgoing transactions  
